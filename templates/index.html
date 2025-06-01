@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<p>Welcome to the Financial Sentiment Radar. We track how people are talking about selected stocks across social platforms. Explore sentiment, trending topics, and tweet samples for each ticker.</p>
+
+<form action="{{ url_for('ticker_page', symbol='dummy') }}" method="get" onsubmit="location.href='/ticker/' + document.getElementById('ticker').value; return false;">
+  <label for="ticker">Choose a stock:</label>
+  <select id="ticker">
+    {% for ticker in tickers %}
+    <option value="{{ ticker }}">{{ ticker }}</option>
+    {% endfor %}
+  </select>
+  <button type="submit">Go</button>
+</form>
+{% endblock %}
+

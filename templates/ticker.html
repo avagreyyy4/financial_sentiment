@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>{{ symbol }}: Today's Highlights</h2>
+
+<ul>
+  {% for tweet in tweets %}
+  <li>{{ tweet[1] }} — {{ tweet[0] }}</li>
+  {% endfor %}
+</ul>
+{% endblock %}
+

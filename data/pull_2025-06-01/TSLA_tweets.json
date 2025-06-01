@@ -1,0 +1,1641 @@
+[
+  {
+    "type": "tweet",
+    "id": "1929270878526664996",
+    "url": "https://x.com/MaryPhilliinduc/status/1929270878526664996",
+    "twitterUrl": "https://twitter.com/MaryPhilliinduc/status/1929270878526664996",
+    "text": "@howardlindzon @GrassClippingsc @GrassLeague \ud83c\udf8c \ud83d\udea9 \ud83d\udca6 \ud83c\udf08 \ud83d\udcbc (@Stock_godfather) is a professional investor and trader who $NVDA  $TSLA",
+    "fullText": "@howardlindzon @GrassClippingsc @GrassLeague \ud83c\udf8c \ud83d\udea9 \ud83d\udca6 \ud83c\udf08 \ud83d\udcbc (@Stock_godfather) is a professional investor and trader who $NVDA  $TSLA",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "createdAt": "Sun Jun 01 20:16:36 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1929227947564777753",
+    "conversationId": "1929227947564777753",
+    "inReplyToUserId": "7517052",
+    "inReplyToUsername": "howardlindzon",
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "MaryPhilliinduc",
+      "url": "https://x.com/MaryPhilliinduc",
+      "twitterUrl": "https://twitter.com/MaryPhilliinduc",
+      "id": "1914387272511971334",
+      "name": "Mary Phillips",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1922177077890928640/hT68ZRVW_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1914387272511971334/1747117707",
+      "description": "Crypto Marketing Evolution: Connect with Top Crypto Influencers on YouTube.\nPromote Your #Token or #NFT with Influencer Marketing!",
+      "location": "Faroe Islands",
+      "followers": 2,
+      "following": 4,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon Apr 21 18:34:35 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 44,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 0,
+      "statusesCount": 96,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "indices": [
+            116,
+            121
+          ],
+          "text": "NVDA"
+        },
+        {
+          "indices": [
+            123,
+            128
+          ],
+          "text": "TSLA"
+        }
+      ],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "7517052",
+          "name": "Howard Lindzon",
+          "screen_name": "howardlindzon",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "id_str": "1049026446658695169",
+          "name": "Grass Clippings",
+          "screen_name": "GrassClippingsc",
+          "indices": [
+            15,
+            31
+          ]
+        },
+        {
+          "id_str": "1754187740583993344",
+          "name": "Grass League",
+          "screen_name": "GrassLeague",
+          "indices": [
+            32,
+            44
+          ]
+        },
+        {
+          "id_str": "1567105759",
+          "name": "Godfather of Finance",
+          "screen_name": "Stock_godfather",
+          "indices": [
+            56,
+            72
+          ]
+        }
+      ]
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270774541475891",
+    "url": "https://x.com/FSD_v12/status/1929270774541475891",
+    "twitterUrl": "https://twitter.com/FSD_v12/status/1929270774541475891",
+    "text": "@Tesla_Tizzler @grok is it true they sold their entire $TSLA position?",
+    "fullText": "@Tesla_Tizzler @grok is it true they sold their entire $TSLA position?",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 17,
+    "createdAt": "Sun Jun 01 20:16:11 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1929116652253204778",
+    "conversationId": "1929116652253204778",
+    "inReplyToUserId": "594861885",
+    "inReplyToUsername": "Tesla_Tizzler",
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "FSD_v12",
+      "url": "https://x.com/FSD_v12",
+      "twitterUrl": "https://twitter.com/FSD_v12",
+      "id": "1590779846585683968",
+      "name": "Robot Driver",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1844757055506378752/UkzySgkI_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1590779846585683968/1728755623",
+      "description": "Exploring the disruption of an automous vehicle future \ud83d\ude97",
+      "location": "",
+      "followers": 308,
+      "following": 1403,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Thu Nov 10 18:55:20 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 24591,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 56,
+      "statusesCount": 1003,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "indices": [
+            55,
+            60
+          ],
+          "text": "TSLA"
+        }
+      ],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "594861885",
+          "name": "Exponential Capital",
+          "screen_name": "Tesla_Tizzler",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "id_str": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "indices": [
+            15,
+            20
+          ]
+        }
+      ]
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270738252370253",
+    "url": "https://x.com/TSLAshareholder/status/1929270738252370253",
+    "twitterUrl": "https://twitter.com/TSLAshareholder/status/1929270738252370253",
+    "text": "Who\u2019s ready for robotaxi?\n\nThat\u2019s right.\n\nIt\u2019s you.\n\n$tsla https://t.co/HvPzisNvlP",
+    "fullText": "Who\u2019s ready for robotaxi?\n\nThat\u2019s right.\n\nIt\u2019s you.\n\n$tsla https://t.co/HvPzisNvlP",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 24,
+    "createdAt": "Sun Jun 01 20:16:02 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "conversationId": "1929270738252370253",
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "TSLAshareholder",
+      "url": "https://x.com/TSLAshareholder",
+      "twitterUrl": "https://twitter.com/TSLAshareholder",
+      "id": "3233166738",
+      "name": "$TSLA Hodler",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1833277474563887106/jbjAe4nn_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3233166738/1745994099",
+      "description": "husband. father \ud83d\udc6f\u200d\u2640\ufe0f. degenerate trader. tesla $tsla lover. i communicate with memes. don\u2019t take me serious.",
+      "location": "",
+      "followers": 7169,
+      "following": 820,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Jun 02 05:31:20 +0000 2015",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 75147,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 7964,
+      "statusesCount": 28030,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1928935855294431248"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/HvPzisNvlP",
+          "expanded_url": "https://x.com/TSLAshareholder/status/1929270738252370253/video/1",
+          "id_str": "1929270686167756800",
+          "indices": [
+            59,
+            82
+          ],
+          "media_key": "13_1929270686167756800",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1929270686167756800/img/rivIoXhlldJWZYJQ.jpg",
+          "type": "video",
+          "url": "https://t.co/HvPzisNvlP",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1280,
+            "width": 720,
+            "focus_rects": []
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 9543,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1929270686167756800/pl/VUzCDHEhPgp5vbkO.m3u8?tag=21"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1929270686167756800/vid/avc1/320x568/IcIcXVZ0wvvJOJjh.mp4?tag=21"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1929270686167756800/vid/avc1/480x852/jhPvtZ2UQHOzE2mH.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1929270686167756800/vid/avc1/720x1280/uY0gHdahk8Ii8dS9.mp4?tag=21"
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "13_1929270686167756800"
+            }
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/HvPzisNvlP",
+          "expanded_url": "https://x.com/TSLAshareholder/status/1929270738252370253/video/1",
+          "id_str": "1929270686167756800",
+          "indices": [
+            59,
+            82
+          ],
+          "media_key": "13_1929270686167756800",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1929270686167756800/img/rivIoXhlldJWZYJQ.jpg",
+          "type": "video",
+          "url": "https://t.co/HvPzisNvlP",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1280,
+            "width": 720,
+            "focus_rects": []
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 9543,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1929270686167756800/pl/VUzCDHEhPgp5vbkO.m3u8?tag=21"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1929270686167756800/vid/avc1/320x568/IcIcXVZ0wvvJOJjh.mp4?tag=21"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1929270686167756800/vid/avc1/480x852/jhPvtZ2UQHOzE2mH.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1929270686167756800/vid/avc1/720x1280/uY0gHdahk8Ii8dS9.mp4?tag=21"
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "13_1929270686167756800"
+            }
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            53,
+            58
+          ],
+          "text": "tsla"
+        }
+      ],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/1929270686167756800/img/rivIoXhlldJWZYJQ.jpg"
+    ],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270723656425620",
+    "url": "https://x.com/mooreterry99380/status/1929270723656425620",
+    "twitterUrl": "https://twitter.com/mooreterry99380/status/1929270723656425620",
+    "text": "$TSLA Here we go.. \ud83d\udcaf\ud83d\ude80\n\u27a1\ufe0f https://t.co/F0HRabiaah",
+    "fullText": "$TSLA Here we go.. \ud83d\udcaf\ud83d\ude80\n\u27a1\ufe0f https://t.co/F0HRabiaah",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 15,
+    "createdAt": "Sun Jun 01 20:15:59 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "conversationId": "1929270723656425620",
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "mooreterry99380",
+      "url": "https://x.com/mooreterry99380",
+      "twitterUrl": "https://twitter.com/mooreterry99380",
+      "id": "1873016136369049600",
+      "name": "Mooreterryd",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1901371337756868608/UBDBujfE_normal.jpg",
+      "description": "#Trading",
+      "location": "USA",
+      "followers": 10,
+      "following": 2,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 28 14:40:30 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "discord.gg/kfXsxgS6qZ",
+              "expanded_url": "https://discord.gg/kfXsxgS6qZ",
+              "url": "https://t.co/bzbSjXl7pX",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 361,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 0,
+      "statusesCount": 10497,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            5
+          ],
+          "text": "TSLA"
+        }
+      ],
+      "timestamps": [],
+      "urls": [
+        {
+          "display_url": "discord.gg/kfXsxgS6qZ",
+          "expanded_url": "https://discord.gg/kfXsxgS6qZ",
+          "url": "https://t.co/F0HRabiaah",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270670950613446",
+    "url": "https://x.com/KaradenizO84652/status/1929270670950613446",
+    "twitterUrl": "https://twitter.com/KaradenizO84652/status/1929270670950613446",
+    "text": "@0xBiZzy \ud83d\udc8e \ud83c\udf8a \ud83d\udc8e \ud83d\udcbc \ud83c\udf89 Exactly! Great insight! \n(@Stock_godfather)\nTime in the market; not time the market!  $NVDA  $TSLA",
+    "fullText": "@0xBiZzy \ud83d\udc8e \ud83c\udf8a \ud83d\udc8e \ud83d\udcbc \ud83c\udf89 Exactly! Great insight! \n(@Stock_godfather)\nTime in the market; not time the market!  $NVDA  $TSLA",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "createdAt": "Sun Jun 01 20:15:46 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1929256565426577885",
+    "conversationId": "1929256565426577885",
+    "inReplyToUserId": "952006146268782592",
+    "inReplyToUsername": "0xBiZzy",
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "KaradenizO84652",
+      "url": "https://x.com/KaradenizO84652",
+      "twitterUrl": "https://twitter.com/KaradenizO84652",
+      "id": "1910792958867365890",
+      "name": "Omaca Karadeniz",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1917952873805058048/GUJJKBKP_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1910792958867365890/1746113437",
+      "description": "r at behavior member loss cell determine. Age sister me meet. Woul",
+      "location": "Reynoldsburg",
+      "followers": 0,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Fri Apr 11 20:32:33 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "meetup.com/yshort",
+              "expanded_url": "https://www.meetup.com/yshort",
+              "url": "https://t.co/YU7SfxqTBy",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 65,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 0,
+      "statusesCount": 13,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "indices": [
+            105,
+            110
+          ],
+          "text": "NVDA"
+        },
+        {
+          "indices": [
+            112,
+            117
+          ],
+          "text": "TSLA"
+        }
+      ],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "952006146268782592",
+          "name": "bizzy",
+          "screen_name": "0xBiZzy",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "id_str": "1567105759",
+          "name": "Godfather of Finance",
+          "screen_name": "Stock_godfather",
+          "indices": [
+            45,
+            61
+          ]
+        }
+      ]
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270669520359649",
+    "url": "https://x.com/ALBERTO_ALARIDO/status/1929270669520359649",
+    "twitterUrl": "https://twitter.com/ALBERTO_ALARIDO/status/1929270669520359649",
+    "text": "$WIF / $USD - Update \n\nLooks like we are looking to test $0.76c. Bulls can hold may  bring us a solid setup for a long\n\n$SPY $TSLA $NVDA $QQQ $META $COIN $MSTR #BTC $AVGO $GEV $ORCL $ARM $NFLX #WIF $WIF\nhttps://t.co/0LfA76e86J",
+    "fullText": "$WIF / $USD - Update \n\nLooks like we are looking to test $0.76c. Bulls can hold may  bring us a solid setup for a long\n\n$SPY $TSLA $NVDA $QQQ $META $COIN $MSTR #BTC $AVGO $GEV $ORCL $ARM $NFLX #WIF $WIF\nhttps://t.co/0LfA76e86J",
+    "source": "Twitter for Android",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 37,
+    "createdAt": "Sun Jun 01 20:15:46 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "conversationId": "1929270669520359649",
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "ALBERTO_ALARIDO",
+      "url": "https://x.com/ALBERTO_ALARIDO",
+      "twitterUrl": "https://twitter.com/ALBERTO_ALARIDO",
+      "id": "1501593322661584901",
+      "name": "Alberto Alarido",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1916189213449441281/tMzS-NDf_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1501593322661584901/1742065690",
+      "description": "CRYPTO IS LIFE \ud83e\udd11\nMy Only Official X Account, Crypto Trader, Market Consultant,Coach, Teaching You How To Build Wealth Before You Get older.\ud83e\udd11\ud83c\udf33",
+      "location": "New York, USA",
+      "followers": 581,
+      "following": 1066,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Wed Mar 09 16:18:56 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/+3tcW9Kn6zpBlY\u2026",
+              "expanded_url": "https://t.me/+3tcW9Kn6zpBlYzQ0",
+              "url": "https://t.co/Lvo6eJBVHk",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 40922,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 2480,
+      "statusesCount": 6920,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1916177226392814066"
+      ]
+    },
+    "extendedEntities": {},
+    "card": {
+      "rest_id": "https://t.co/0LfA76e86J",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "app_star_rating",
+            "value": {
+              "string_value": "4.02669",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 144,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1928403501752983552/bJxe7AW7?format=png&name=144x144_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "t.me",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_is_free",
+            "value": {
+              "string_value": "true",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 256,
+                "width": 256,
+                "url": "https://pbs.twimg.com/card_img/1928403501752983552/bJxe7AW7?format=png&name=280x280_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 256,
+                "width": 256,
+                "url": "https://pbs.twimg.com/card_img/1928403501752983552/bJxe7AW7?format=png&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "1689053928",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 100,
+                "width": 100,
+                "url": "https://pbs.twimg.com/card_img/1928403501752983552/bJxe7AW7?format=png&name=100x100_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_num_ratings",
+            "value": {
+              "string_value": "232,634",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_amount",
+            "value": {
+              "string_value": "0.0",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 256,
+                "width": 256,
+                "url": "https://pbs.twimg.com/card_img/1928403501752983552/bJxe7AW7?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "t.me",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_name",
+            "value": {
+              "string_value": "Telegram Messenger",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 227,
+                      "green": 164,
+                      "red": 38
+                    },
+                    "percentage": 67.36
+                  },
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 11.33
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "Join group chat on Telegram",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_currency",
+            "value": {
+              "string_value": "USD",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/0LfA76e86J",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/0LfA76e86J",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxNjg5MDUzOTI4",
+              "rest_id": "1689053928",
+              "affiliates_highlighted_label": {},
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "following": false,
+                "can_dm": false,
+                "can_media_tag": true,
+                "created_at": "Wed Aug 21 19:47:05 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Simple, fast, secure \u2013 and synced across all your devices. One of the top 5 most-downloaded apps in the world with over 1 billion active users.",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "telegram.org",
+                        "expanded_url": "http://telegram.org",
+                        "url": "https://t.co/zHAc9lS7Jy",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 6836,
+                "followers_count": 1871322,
+                "friends_count": 11,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 4421,
+                "location": "",
+                "media_count": 3815,
+                "name": "Telegram Messenger",
+                "normal_followers_count": 1871322,
+                "pinned_tweet_ids_str": [
+                  "1922292729704268182"
+                ],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689053928/1392066683",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+                "profile_interstitial_type": "",
+                "screen_name": "telegram",
+                "statuses_count": 49857,
+                "translator_type": "none",
+                "url": "https://t.co/zHAc9lS7Jy",
+                "verified": false,
+                "verified_type": "Business",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "professional": {
+                "rest_id": "1649119696312991755",
+                "professional_type": "Business",
+                "category": [
+                  {
+                    "id": 962,
+                    "name": "Mobile Application",
+                    "icon_name": "IconBriefcaseStroke"
+                  }
+                ]
+              },
+              "tipjar_settings": {}
+            }
+          }
+        ]
+      }
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            160,
+            164
+          ],
+          "text": "BTC"
+        },
+        {
+          "indices": [
+            193,
+            197
+          ],
+          "text": "WIF"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "text": "WIF"
+        },
+        {
+          "indices": [
+            7,
+            11
+          ],
+          "text": "USD"
+        },
+        {
+          "indices": [
+            120,
+            124
+          ],
+          "text": "SPY"
+        },
+        {
+          "indices": [
+            125,
+            130
+          ],
+          "text": "TSLA"
+        },
+        {
+          "indices": [
+            131,
+            136
+          ],
+          "text": "NVDA"
+        },
+        {
+          "indices": [
+            137,
+            141
+          ],
+          "text": "QQQ"
+        },
+        {
+          "indices": [
+            142,
+            147
+          ],
+          "text": "META"
+        },
+        {
+          "indices": [
+            148,
+            153
+          ],
+          "text": "COIN"
+        },
+        {
+          "indices": [
+            154,
+            159
+          ],
+          "text": "MSTR"
+        },
+        {
+          "indices": [
+            165,
+            170
+          ],
+          "text": "AVGO"
+        },
+        {
+          "indices": [
+            171,
+            175
+          ],
+          "text": "GEV"
+        },
+        {
+          "indices": [
+            176,
+            181
+          ],
+          "text": "ORCL"
+        },
+        {
+          "indices": [
+            182,
+            186
+          ],
+          "text": "ARM"
+        },
+        {
+          "indices": [
+            187,
+            192
+          ],
+          "text": "NFLX"
+        },
+        {
+          "indices": [
+            198,
+            202
+          ],
+          "text": "WIF"
+        }
+      ],
+      "timestamps": [],
+      "urls": [
+        {
+          "display_url": "t.me/+3tcW9Kn6zpBlY\u2026",
+          "expanded_url": "https://t.me/+3tcW9Kn6zpBlYzQ0",
+          "url": "https://t.co/0LfA76e86J",
+          "indices": [
+            203,
+            226
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270613002039339",
+    "url": "https://x.com/ArslanGuld31208/status/1929270613002039339",
+    "twitterUrl": "https://twitter.com/ArslanGuld31208/status/1929270613002039339",
+    "text": "@RoccobullboTTom \ud83d\ude80 \ud83c\udf89 \ud83d\udca6 \ud83c\udf1f (@Stock_godfather) is a professional investor and trader who $NVDA  $TSLA",
+    "fullText": "@RoccobullboTTom \ud83d\ude80 \ud83c\udf89 \ud83d\udca6 \ud83c\udf1f (@Stock_godfather) is a professional investor and trader who $NVDA  $TSLA",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "createdAt": "Sun Jun 01 20:15:32 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1929265258243190838",
+    "conversationId": "1929265258243190838",
+    "inReplyToUserId": "1554880577928835072",
+    "inReplyToUsername": "RoccobullboTTom",
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "ArslanGuld31208",
+      "url": "https://x.com/ArslanGuld31208",
+      "twitterUrl": "https://twitter.com/ArslanGuld31208",
+      "id": "1916887976765952000",
+      "name": "Gulder Arslan",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1924479318480027649/5lylxcLc_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1916887976765952000/1747669537",
+      "description": "m stuff lawyer. Middle bank important reali\nSummer foot somebody",
+      "location": "Kings Point",
+      "followers": 0,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon Apr 28 16:11:56 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "wa.me/timothy94",
+              "expanded_url": "https://wa.me/timothy94",
+              "url": "https://t.co/5atfSyqY8n",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 83,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 0,
+      "statusesCount": 12,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "indices": [
+            86,
+            91
+          ],
+          "text": "NVDA"
+        },
+        {
+          "indices": [
+            93,
+            98
+          ],
+          "text": "TSLA"
+        }
+      ],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1554880577928835072",
+          "name": "TOP GAINER TODAY",
+          "screen_name": "RoccobullboTTom",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "id_str": "1567105759",
+          "name": "Godfather of Finance",
+          "screen_name": "Stock_godfather",
+          "indices": [
+            26,
+            42
+          ]
+        }
+      ]
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270592659972254",
+    "url": "https://x.com/alemdar13061/status/1929270592659972254",
+    "twitterUrl": "https://twitter.com/alemdar13061/status/1929270592659972254",
+    "text": "@cryptoskullx \ud83c\udf39 \ud83c\udf88 \ud83c\udf39 \ud83c\udf8c \ud83c\udf02 Exactly! Great insight! \n(@Stock_godfather)\nTime in the market; not time the market!  $NVDA  $TSLA",
+    "fullText": "@cryptoskullx \ud83c\udf39 \ud83c\udf88 \ud83c\udf39 \ud83c\udf8c \ud83c\udf02 Exactly! Great insight! \n(@Stock_godfather)\nTime in the market; not time the market!  $NVDA  $TSLA",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "createdAt": "Sun Jun 01 20:15:28 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1929235385776799917",
+    "conversationId": "1929235385776799917",
+    "inReplyToUserId": "1454559987276124168",
+    "inReplyToUsername": "cryptoskullx",
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "alemdar13061",
+      "url": "https://x.com/alemdar13061",
+      "twitterUrl": "https://twitter.com/alemdar13061",
+      "id": "1916887934524870656",
+      "name": "Inancli Alemdar",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1924484722412965888/SOBgqwSO_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1916887934524870656/1747670276",
+      "description": "ive film red fish increase piece. \nSee rise lay",
+      "location": "East Orange",
+      "followers": 0,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon Apr 28 16:11:48 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "open.spotify.com/user/williamst\u2026",
+              "expanded_url": "https://open.spotify.com/user/williamstammy",
+              "url": "https://t.co/c8aqz41Pns",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 73,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 0,
+      "statusesCount": 12,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "indices": [
+            110,
+            115
+          ],
+          "text": "NVDA"
+        },
+        {
+          "indices": [
+            117,
+            122
+          ],
+          "text": "TSLA"
+        }
+      ],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1454559987276124168",
+          "name": "CryptoSkull \ud83d\udc80 ze last bull standing",
+          "screen_name": "cryptoskullx",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "id_str": "1567105759",
+          "name": "Godfather of Finance",
+          "screen_name": "Stock_godfather",
+          "indices": [
+            50,
+            66
+          ]
+        }
+      ]
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270567506452802",
+    "url": "https://x.com/IkizZengin91974/status/1929270567506452802",
+    "twitterUrl": "https://twitter.com/IkizZengin91974/status/1929270567506452802",
+    "text": "@jasonappleton \ud83d\udcb0 \ud83c\udf10 This gentleman's analysis is very good.\uff08@Stock_godfather\uff09 $NVDA  $TSLA",
+    "fullText": "@jasonappleton \ud83d\udcb0 \ud83c\udf10 This gentleman's analysis is very good.\uff08@Stock_godfather\uff09 $NVDA  $TSLA",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "createdAt": "Sun Jun 01 20:15:22 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1928914754975695082",
+    "conversationId": "1928914754975695082",
+    "inReplyToUserId": "109362031",
+    "inReplyToUsername": "jasonappleton",
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "IkizZengin91974",
+      "url": "https://x.com/IkizZengin91974",
+      "twitterUrl": "https://twitter.com/IkizZengin91974",
+      "id": "1910566707434766336",
+      "name": "Ikiz Zengin",
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1917954513291395072/d8Op4me6_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1910566707434766336/1746113957",
+      "description": "n these research include. Garden simply seek thing \nTurn blue force",
+      "location": "Havertown",
+      "followers": 0,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Fri Apr 11 05:33:29 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "flickr.com/photos/alexand\u2026",
+              "expanded_url": "https://www.flickr.com/photos/alexandracastillo",
+              "url": "https://t.co/XdRhF053f4",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 71,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 0,
+      "statusesCount": 13,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "indices": [
+            77,
+            82
+          ],
+          "text": "NVDA"
+        },
+        {
+          "indices": [
+            84,
+            89
+          ],
+          "text": "TSLA"
+        }
+      ],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "109362031",
+          "name": "Jason Appleton (Crypto Crow)",
+          "screen_name": "jasonappleton",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "id_str": "1567105759",
+          "name": "Godfather of Finance",
+          "screen_name": "Stock_godfather",
+          "indices": [
+            59,
+            75
+          ]
+        }
+      ]
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  },
+  {
+    "type": "tweet",
+    "id": "1929270538913841492",
+    "url": "https://x.com/YigitDurmu43699/status/1929270538913841492",
+    "twitterUrl": "https://twitter.com/YigitDurmu43699/status/1929270538913841492",
+    "text": "@Steph_iscrypto \ud83c\udf02 \ud83c\udf02 Exactly! Great insight! \n(@Stock_godfather)\nTime in the market; not time the market!  $NVDA  $TSLA",
+    "fullText": "@Steph_iscrypto \ud83c\udf02 \ud83c\udf02 Exactly! Great insight! \n(@Stock_godfather)\nTime in the market; not time the market!  $NVDA  $TSLA",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "createdAt": "Sun Jun 01 20:15:15 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1929265924139315474",
+    "conversationId": "1929265924139315474",
+    "inReplyToUserId": "1518470809689501696",
+    "inReplyToUsername": "Steph_iscrypto",
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "YigitDurmu43699",
+      "url": "https://x.com/YigitDurmu43699",
+      "twitterUrl": "https://twitter.com/YigitDurmu43699",
+      "id": "1910792997161361410",
+      "name": "Yigit Durmus",
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1917949257450983424/n2aOcKzF_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1910792997161361410/1746112379",
+      "description": "e above others. Mean enter under trouble",
+      "location": "Chamois",
+      "followers": 0,
+      "following": 0,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Fri Apr 11 20:32:40 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goodreads.com/moorepatricia",
+              "expanded_url": "https://www.goodreads.com/moorepatricia",
+              "url": "https://t.co/50dvaQZhrV",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 68,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 0,
+      "statusesCount": 13,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": []
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "indices": [
+            106,
+            111
+          ],
+          "text": "NVDA"
+        },
+        {
+          "indices": [
+            113,
+            118
+          ],
+          "text": "TSLA"
+        }
+      ],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1518470809689501696",
+          "name": "STEPH IS CRYPTO",
+          "screen_name": "Steph_iscrypto",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "id_str": "1567105759",
+          "name": "Godfather of Finance",
+          "screen_name": "Stock_godfather",
+          "indices": [
+            46,
+            62
+          ]
+        }
+      ]
+    },
+    "isRetweet": false,
+    "isQuote": false,
+    "media": [],
+    "isConversationControlled": false
+  }
+]
